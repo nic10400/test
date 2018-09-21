@@ -11,3 +11,7 @@ Haywood et al 1999 were the pioneers of this type of measurement.
 
 #Simulation
 blah blah blah
+
+#Methodology
+We used an AMS to measure particle mass and chemical composition.
+The AMS is described in Allen et al 2004
