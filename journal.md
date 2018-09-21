@@ -16,5 +16,9 @@ blah blah blah
 We used an AMS to measure particle mass and chemical composition.
 The AMS is described in Allen et al 2004
 
+#Results
+The simulation was able to reproduce the observed particle growth, so it's due to coagulation rather than condensation.
+
 # Conclusions
 We found out some stuff but give us more money to find out more stuff
+
